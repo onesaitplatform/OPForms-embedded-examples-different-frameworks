@@ -1,0 +1,5 @@
+{
+    "auth":"Basic b25lc2FpdHBsYXRmb3JtOm9uZXNhaXRwbGF0Zm9ybQ==",
+    "platformbase":"https://lab.onesaitplatform.com",
+    "appbase":"http:localhost:4200"
+}

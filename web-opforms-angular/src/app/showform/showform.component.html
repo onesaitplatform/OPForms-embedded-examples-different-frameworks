@@ -1,0 +1,12 @@
+<div class="exampleform">
+<br>
+    <mat-label>You can fill the record identifier to load the form with the record data</mat-label><br>
+<br>
+    <mat-form-field>
+        <input type="text"  matInput [(ngModel)]="oid" id="oid"><br>
+    </mat-form-field>
+    <br><button mat-button color="primary"    (click)="showForm('helsinkicreate-developer',this.oid)">Show</button> 
+<br>
+    <mat-divider></mat-divider>
+</div>
+<div id="formdiv"></div>
